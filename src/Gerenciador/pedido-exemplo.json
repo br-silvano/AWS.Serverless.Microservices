@@ -1,0 +1,24 @@
+{
+  "ValorTotal": 0,
+  "Cliente": {
+    "Id": "1",
+    "Nome": "Fulano de Tal",
+    "CPF": "67112783054",
+    "Email": "test@test.com"
+  },
+  "Pagamento": {
+    "NumeroCartao": "4235647728025682",
+    "Validade": "12/2022",
+    "CVV": "123"
+  },
+  "Produtos": [
+    {
+      "Id": "1",
+      "Quantidade": 4
+    },
+    {
+      "Id": "2",
+      "Quantidade": 2
+    }
+  ]
+}
